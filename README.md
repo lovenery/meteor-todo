@@ -1,6 +1,10 @@
 # Meteor Todo
 
+## Env
+
 - meteor v1.5
+
+## Deploy
 
 ```
 # Install dependencies
