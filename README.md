@@ -4,7 +4,7 @@
 
 - meteor v1.5
 
-## Deploy
+## Develop
 
 ```
 # Install dependencies
